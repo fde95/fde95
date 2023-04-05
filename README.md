@@ -1,6 +1,9 @@
-### Olá pessoal 👋
+<h1 align="center"> Olá, seja bem vindo 👋 
+<br></br>
+<img src="https://media.giphy.com/media/26tk1rgzY5mgjTuFy/giphy.gif">
+</p></h1>
 
-Este é o meu repositório pessoal no GitHub, onde compartilho o meu progresso como programador front-end em transição de carreira. Depois de trabalhar por anos em outra área, decidi dedicar meu tempo e energia em aprender a programar e, em particular, a desenvolver habilidades como dev front-end.
+Seja muito bem vindo ao meu perfil no GitHub, aqui é onde compartilho o meu progresso como programador front-end em transição de carreira. Depois de trabalhar por anos em outra área, decidi dedicar meu tempo e energia em aprender a programar e, em particular, a desenvolver habilidades como dev front-end.
 
 Neste repositório, você encontrará uma variedade de projetos que demonstram minhas habilidades em HTML, CSS e JavaScript, além de outras tecnologias relacionadas a front-end como React. Muitos desses projetos incluem desafios que me propus a superar para expandir meu conhecimento e habilidades.
 
