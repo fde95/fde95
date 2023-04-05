@@ -1,5 +1,6 @@
-<h1> Olá, seja bem vind@! 
-<p><img alt="Gif de programador trabalhando" height="300" width="300" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"></p>
+<h1> 
+  Olá, seja bem vind@! 
+  <p><img alt="Gif de programador trabalhando" height="300" width="300" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"></p>
 </h1>
 
 Sou estudante de Engenharia da Computação na faculdade Descomplica e aluno no curso de Engenheiro Front-End da EBAC.
@@ -19,28 +20,30 @@ Além disso, estou constantemente atualizando este repositório com novos projet
 
 <br>
 
-<h3><b>Detalhes</b>
+<h3>
+  <b>Detalhes</b>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fde95&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fde95&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </h3>
 
+<h3>
+  <b>Projeto</b>
 
-<h3><b>Projeto</b>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fde95&repo=TikTokProject&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fde95&repo=TikTokProject&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </h3>
 
-<h3><b>Linguagens utilizadas</b>
+<h3>
+  <b>Linguagens utilizadas</b>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fde95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fde95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </h3>
-
   
 <br>
-
-<h2><b>Contatos</b>
-<div style="display: inline_block">
- <a href="https://instagram.com/fde.95" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href = "mailto:fdespinoza95@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/fde95" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></h2>
+<h2>
+  <b>Contatos</b>
+    <div style="display: inline_block">
+      <a href="https://instagram.com/fde.95" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+      <a href = "mailto:fdespinoza95@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+      <a href="https://www.linkedin.com/in/fde95" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</h2>
   
