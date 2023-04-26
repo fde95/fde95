@@ -1,8 +1,17 @@
-<h1> 
+<h1 align="center"> 
   Olá, seja bem vind@! 
+
   <p><img alt="Gif de programador trabalhando" height="300" width="300" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"></p>
 </h1>
-
+<div style="display: inline_block"><br>
+  <div align="center">
+  <img align="center" alt="fde95-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="fde95-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="fde95-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="jQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
+  <img align="center" alt="fde95-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
+<br>
 Sou estudante de Engenharia da Computação na faculdade Descomplica e aluno no curso de Engenheiro Front-End da EBAC.
 
 Seja muito bem vindo ao meu perfil no GitHub, aqui é onde compartilho o meu progresso como programador front-end em transição de carreira. 
@@ -11,17 +20,11 @@ Aqui você encontrará uma variedade de projetos que demonstram minhas habilidad
 
 Além disso, estou constantemente atualizando este repositório com novos projetos e experimentos, à medida que continuo a aprimorar minhas habilidades de desenvolvimento front-end. Sinta-se à vontade para explorar e usar meu código como referência em seus próprios projetos.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="fde95-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="fde95-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="fde95-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="jQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
-  <img align="center" alt="fde95-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
 
-<h2>
+<h2 align="center">
   <b>Contatos</b>
-    <div style="display: inline_block">
+  <br></br>
+      <div style="display: inline_block">
       <a href="https://instagram.com/fde.95" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
       <a href = "mailto:fdespinoza95@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
       <a href="https://www.linkedin.com/in/fde95" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
