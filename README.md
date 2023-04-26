@@ -15,30 +15,10 @@ Além disso, estou constantemente atualizando este repositório com novos projet
   <img align="center" alt="fde95-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="fde95-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="fde95-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="jQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
   <img align="center" alt="fde95-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
-<br>
-
-<h3>
-  <b>Detalhes</b>
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fde95&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</h3>
-
-<h3>
-  <b>Projeto</b>
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fde95&repo=TikTokProject&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</h3>
-
-<h3>
-  <b>Linguagens utilizadas</b>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fde95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</h3>
-  
-<br>
 <h2>
   <b>Contatos</b>
     <div style="display: inline_block">
@@ -46,4 +26,13 @@ Além disso, estou constantemente atualizando este repositório com novos projet
       <a href = "mailto:fdespinoza95@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
       <a href="https://www.linkedin.com/in/fde95" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </h2>
+
+<br>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fde95&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fde95&repo=curso-ebac-frontend&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fde95&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
   
