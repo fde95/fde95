@@ -1,19 +1,20 @@
-<h1 align="center"> 
-  Olá, seja bem vind@! 
-
+<div align="center" style="display: inline_block">
+  <h1>
+    Olá, seja bem vind@! 
+  </h1>
   <p><img alt="Gif de programador trabalhando" height="300" width="300" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"></p>
-</h1>
-<div style="display: inline_block"><br>
-  <div align="center">
-  <img align="center" alt="fde95-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="fde95-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="fde95-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="fde95-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="fde95-jQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
-  <img align="center" alt="fde95-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="fde95-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" alt="fde95-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="fde95-Less" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg">
+ <h3>Conhecimento em:</h3>
+<img align="center" alt="fde95-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img align="center" alt="fde95-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="fde95-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="fde95-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="fde95-jQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
+<img align="center" alt="fde95-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="center" alt="fde95-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+<img align="center" alt="fde95-BOOTSTREP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+<img align="center" alt="fde95-LESS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg">
+<img align="center" alt="fde95-GULP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg">
+<img align="center" alt="fde95-GRUNT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg">
 </div>
 <br>
 Sou estudante de Engenharia da Computação na faculdade Descomplica e aluno no curso de Engenheiro Front-End da EBAC.
