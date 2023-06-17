@@ -38,10 +38,12 @@ Além disso, estou constantemente atualizando este repositório com novos projet
 
 <br>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fde95&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fde95&theme=dark&layout=compact)](https://github.com/fde95/github-readme-stats)
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fde95&repo=curso-ebac-frontend&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fde95&repo=projeto5-Batman-LandingPage&theme=dark)](https://github.com/fde95/projeto5-Batman-LandingPage#readme)
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fde95&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fde95&repo=cloneDisneyPlus&theme=dark)](https://github.com/fde95/cloneDisneyPlus#readme)
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fde95&show_icons=true&theme=dark)](https://github.com/fde95/github-readme-stats)
 
   
