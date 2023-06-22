@@ -9,13 +9,9 @@
 <img align="center" alt="fde95-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="fde95-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="fde95-jQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
-<img align="center" alt="fde95-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" alt="fde95-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
 <img align="center" alt="fde95-BOOTSTREP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-<img align="center" alt="fde95-LESS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg">
-<img align="center" alt="fde-Babel" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg">
 <img align="center" alt="fde95-GULP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg">
-<img align="center" alt="fde95-GRUNT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg">
 </div>
 <br>
 Sou estudante de Engenharia da Computação na faculdade Descomplica e aluno no curso de Engenheiro Front-End da EBAC.
