@@ -1,8 +1,9 @@
 <h1>
   Olá, eu sou o Felipe Espinoza
 </h1>
-<p>Desenvolvedor front-end transitando de uma carreira em marketing, com 5+ anos de experiência, para o mundo da programação. Especialista em HTML, CSS e JavaScript e me especializando em React e VueJS. Criativo, colaborativo e pronto para inovar.</p>
+<p>Sou desenvolvedor front-end e nômade digital, com mais de 5 anos de experiência no marketing, agora focado no mundo da programação. Especialista em HTML, CSS e JavaScript, e continuamente me aprimorando em React e VueJS. Criativo, colaborativo e sempre em busca de inovação, enquanto exploro novos horizontes na América Latina.</p>
 <br/>
+
 
 <div align="center">
     <table>
