@@ -27,16 +27,12 @@
 </div>
 <br/>
 
-<h2>Sobre mim</h2>
-<p>
-  Minha carreira teve início na área de marketing, onde acumulei mais de 5 anos de experiência, incluindo 4 anos em uma multinacional, onde alcancei o cargo de Analista Pleno. Adquiri experiências e habilidades diversas,    resultando em um crescimento significativo. Durante meu intercâmbio em Dublin, reacendi minha paixão pela programação, o que me motivou a me especializar e aprimorar meus conhecimentos técnicos.
-</p>
-<p>
-  Minha formação inicial em Gerenciamento de Marketing pela Universidad de Chile preparou o terreno para minha nova jornada na Engenharia da Computação, onde busco aprofundar minha compreensão técnica. Cursos focados em     Engenharia Front-end aprimoraram minhas habilidades em Gulp, SASS, Bootstrap, jQuery e metodologias de boas práticas em CSS, como BEM e SMACSS. Além disso, expandi minha expertise ao concluir o curso de Programação        JavaScript pela EBAC e estou em constante evolução em TypeScript, React e VueJS por meio de projetos pessoais, cursos e estudos contínuos.
-</p>
-<p>
-  Essa transição reflete meu compromisso em evoluir e me destacar no desenvolvimento front-end. Abraço o trabalho em equipe, ofereço soluções criativas e contribuo de maneira eficiente para a resolução de problemas.         Combinando experiência em marketing e perspectivas tecnológicas, estou preparado para trazer inovação e novas abordagens a futuros projetos.
-</p>
+<h2>Sobre Mim</h2>
+<p>Iniciei minha carreira no marketing, acumulando mais de 5 anos de experiência, incluindo 4 anos como Analista Pleno em uma multinacional. Durante essa fase, desenvolvi uma ampla gama de habilidades que contribuíram para o meu crescimento profissional. Em 2022, durante um intercâmbio em Dublin, redescobri minha paixão pela programação, o que me levou a uma transição de carreira focada em desenvolvimento front-end.</p>
+
+<p>Minha formação em Gerenciamento de Marketing pela Universidad de Chile forneceu uma base sólida para minha especialização atual em Engenharia da Computação. Desde então, venho aprimorando minhas habilidades técnicas com cursos focados em front-end, onde me especializei em HTML5, CSS, JavaScript, além de ferramentas como Gulp, SASS, Bootstrap, e metodologias de boas práticas em CSS, como BEM e SMACSS. Também expandi meu conhecimento com cursos de JavaScript e continuo avançando em TypeScript, React e VueJS através de projetos pessoais e aprendizado contínuo.</p>
+
+<p>Hoje, atuo como desenvolvedor front-end, combinando minha expertise em marketing com uma abordagem técnica para criar soluções inovadoras. Acredito no poder do trabalho em equipe, na busca constante por melhorias e na entrega de resultados que impactem positivamente os projetos em que estou envolvido. Com um foco contínuo em aprendizado e evolução, estou pronto para contribuir com novas ideias e inovação em futuros projetos.</p>
 
 <h2 align="center">
   <b>Contatos</b>
