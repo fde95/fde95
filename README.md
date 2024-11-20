@@ -1,43 +1,62 @@
 <h1>
-  Olá, eu sou o Felipe Espinoza
+    Olá, eu sou o Dev Felipe Espinoza 👋
 </h1>
-<p>Sou desenvolvedor front-end e nômade digital, com mais de 5 anos de experiência no marketing, agora focado no mundo da programação. Especialista em HTML, CSS e JavaScript, e continuamente me aprimorando em React e VueJS. Criativo, colaborativo e sempre em busca de inovação, enquanto exploro novos horizontes na América Latina.</p>
-<br/>
+<p>
+    Sou desenvolvedor front-end com <strong>experiência comprovada em HTML5, CSS3, JavaScript e jQuery</strong>, além de conhecimento avançado no <strong>CMS Joomla</strong>. Atualmente, trabalho na Superix, uma agência consolidada no mercado desde 2003, onde participo do desenvolvimento de sites institucionais, configuração de DNS, SMTP e publicação de sites.
+</p>
+<p>
+    Minha trajetória profissional inclui também <strong>experiência em marketing de produto em uma multinacional japonesa</strong>, onde desenvolvi uma visão estratégica que agora aplico ao desenvolvimento de soluções digitais. Atualmente, estou expandindo minha atuação para o back-end, estudando <strong>programação em Java pela EBAC</strong>, e também curso <strong>Bacharelado em Engenharia da Computação</strong> na Descomplica, buscando me tornar um desenvolvedor completo.
+</p>
 
+<h2>🛠️ Principais Competências:</h2>
+<ul>
+    <li><strong>Front-end:</strong> HTML5, CSS3, JavaScript, jQuery, Joomla.</li>
+    <li><strong>Back-end:</strong> Estudando Java, com foco em desenvolvimento escalável e soluções modernas.</li>
+    <li><strong>DevOps:</strong> Apontamento de DNS, configuração de SMTP e publicação de sites.</li>
+    <li><strong>Marketing de Produto:</strong> Estratégias de branding, análise de mercado e desenvolvimento de produtos digitais.</li>
+</ul>
 
-<div align="center">
-    <table>
-        <tr>
-            <td align="center">
-                <h3>Conhecimento sólido em:</h3>
-                <img alt="fde95-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-                <img alt="fde95-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-                <img alt="fde95-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-                <img alt="fde95-jQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
-                <img alt="fde95-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-                <img alt="fde95-BOOTSTREP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-            </td>
-            <td align="center">
-                <h3>Aprimorando conhecimentos em:</h3>
-                <img alt="fde95-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-            </td>
-        </tr>
-    </table>
-</div>
-<br/>
+<h3>🌎 Habilidades Linguísticas:</h3>
+<ul>
+    <li><strong>Português:</strong> Nativo.</li>
+    <li><strong>Espanhol:</strong> Fluente.</li>
+    <li><strong>Inglês:</strong> Nível B2 (Intermediário-avançado).</li>
+</ul>
 
-<h2>Sobre Mim</h2>
-<p>Iniciei minha carreira no marketing, acumulando mais de 5 anos de experiência, incluindo 4 anos como Analista Pleno em uma multinacional. Durante essa fase, desenvolvi uma ampla gama de habilidades que contribuíram para o meu crescimento profissional. Em 2022, durante um intercâmbio em Dublin, redescobri minha paixão pela programação, o que me levou a uma transição de carreira focada em desenvolvimento front-end.</p>
+<h3>🎓 Formações e Cursos Concluídos:</h3>
+<ul>
+    <li><strong>Engenharia da Computação</strong> (em andamento) – Descomplica</li>
+    <li><strong>Especialista Back-end Java</strong> (em andamento) – EBAC</li>
+    <li><strong>Engenheiro Front-end</strong> – EBAC</li>
+    <li><strong>Programação em JavaScript</strong> – EBAC</li>
+    <li><strong>Marketing</strong> – Universidad de Chile</li>
+</ul>
 
-<p>Minha formação em Gerenciamento de Marketing pela Universidad de Chile forneceu uma base sólida para minha especialização atual em Engenharia da Computação. Desde então, venho aprimorando minhas habilidades técnicas com cursos focados em front-end, onde me especializei em HTML5, CSS, JavaScript, além de ferramentas como Gulp, SASS, Bootstrap, e metodologias de boas práticas em CSS, como BEM e SMACSS. Também expandi meu conhecimento com cursos de JavaScript e continuo avançando em TypeScript, React e VueJS através de projetos pessoais e aprendizado contínuo.</p>
+<h3>🚀 O que busco?</h3>
+<p>
+    Estou em busca de novas oportunidades que me desafiem a combinar minha experiência técnica em desenvolvimento front-end e back-end com minha bagagem estratégica em marketing. Minha meta é contribuir para projetos que impactem positivamente a vida das pessoas por meio da tecnologia.
+</p>
 
-<p>Hoje, atuo como desenvolvedor front-end, combinando minha expertise em marketing com uma abordagem técnica para criar soluções inovadoras. Acredito no poder do trabalho em equipe, na busca constante por melhorias e na entrega de resultados que impactem positivamente os projetos em que estou envolvido. Com um foco contínuo em aprendizado e evolução, estou pronto para contribuir com novas ideias e inovação em futuros projetos.</p>
+<h3>🌍 Sobre Mim</h3>
+<p>
+    Sou <strong>nômade digital</strong>, atualmente morando em Buenos Aires enquanto exploro a América Latina. Minha jornada profissional é impulsionada por aprendizado contínuo e uma visão criativa, sempre focada na entrega de soluções eficazes e acessíveis.
+</p>
 
-<h2 align="center">
-  <b>Contatos</b>
-  <br></br>
-      <div style="display: inline_block">
-      <a href="https://instagram.com/fde.95" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-      <a href = "mailto:fdespinoza95@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-      <a href="https://www.linkedin.com/in/fde95" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</h2>
+<h3>📫 Entre em Contato:</h3>
+<ul>
+    <li>
+        <a href="https://www.devfe.com.br" target="_blank" rel="noopener noreferrer">
+            🌐 devfe.com.br
+        </a>
+    </li>
+    <li>
+        <a href="mailto:contato@devfe.com.br?subject=CONTATO%20VIA%20GITHUB" target="_blank" rel="noopener noreferrer">
+            📧 contato@devfe.com.br
+        </a>
+    </li>
+    <li>
+        <a href="https://www.linkedin.com/in/fde95" target="_blank" rel="noopener noreferrer">
+            💼 LinkedIn
+        </a>
+    </li>
+</ul>
